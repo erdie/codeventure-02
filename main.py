@@ -1,3 +1,4 @@
 myName = "Erdi"
+myHobby = "Watching"
 
-print(myName)
+print(myName, myHobby)
